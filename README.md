@@ -1,8 +1,5 @@
  zwuRepo
-<<<<<<< HEAD
 Add new content. 
-Add another new content. 
+AEdit on the master branch. 
+dd another new content. 
 The 3rd one.
-=======
-Edit on the master branch. 
->>>>>>> master
