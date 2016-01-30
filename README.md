@@ -1,2 +1,2 @@
  zwuRepo
-Edite on the master branch. 
+Edit on the master branch. 
